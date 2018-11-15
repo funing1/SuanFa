@@ -1,5 +1,5 @@
 package suanfa;
-
+//git
 public class ErFenChaZhao {
 	
     public static void main(String[] args) {
